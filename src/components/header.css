@@ -1,0 +1,14 @@
+nav ul {
+    list-style-type: none;
+}
+
+nav li:first-child {
+    float: left;
+}
+nav li {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+}
